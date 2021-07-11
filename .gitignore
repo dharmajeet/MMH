@@ -3,3 +3,6 @@
 ################################################################################
 
 /bin/Debug/netcoreapp3.1
+/.vs
+/Properties/PublishProfiles
+/Properties/ServiceDependencies/MMH - Web Deploy
